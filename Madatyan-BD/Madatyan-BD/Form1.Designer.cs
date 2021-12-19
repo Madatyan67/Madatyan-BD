@@ -1,5 +1,5 @@
 ﻿
-namespace Artakbd
+namespace Madatyanbd
 {
     partial class Form1
     {
